@@ -24,3 +24,6 @@ To mint nfts : npx hardhat run scripts/batchMint.js --network goerli
 Write a Hardhat script to batch transfer NFTs from Ethereum to Polygon Mumbai using the FxPortal Bridge:
 To transfer NFTs from Ethereum to Polygon Mumbai, you'll need to use the FxPortal Bridge, which is provided by Polygon (Matic). You'll need to set up the bridge and initiate the transfer using the correct functions and configurations.
 To approve and deposit : npx hardhat run scripts/approveDeposit.js --network mumbai
+
+>Video Walkthrough
+https://www.loom.com/share/d943393687c645c69a223e2e245a5051
